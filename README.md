@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Harshil Patel
 <br>1st Year BTech Student 🌟 | Frontend Enthusiast 💻 | Aspiring UI/UX Designer 🎨<br><br>Crafting responsive UIs with HTML, CSS & JS 🚀 | Tackling problem-solving challenges daily 🧠 | Building pixel-perfect experiences ✨<br><br>📍 Ahmedabad, Gujarat 🇮🇳 | Open to collaborations! 🤝 | Let's connect! ⚡<br>
- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> 
+
 
  
 
@@ -17,6 +15,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HARSHILL2023&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+ <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div> 
+
 [![](https://visitcount.itsvg.in/api?id=HARSHILL2023&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
