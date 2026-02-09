@@ -18,36 +18,36 @@
 
 ## 🎯 ABOUT ME
 
-</div>
-
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center">
+<td width="50%" align="center">
+
+<img alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</td>
+<td width="50%" align="center" valign="center">
 
 ### 👨‍💻 WHO AM I?
 
-**`Harshil Patel`** 
-> Frontend Developer & UI/UX Enthusiast
+**`Harshil Patel`**
 
-📍 **Location:** Ahmedabad, Gujarat, India  
-🎓 **Education:** BTech - 1st Year  
+*Frontend Developer & UI/UX Enthusiast*
+
+<br>
+
+📍 **Location:** Ahmedabad, Gujarat, India
+
+🎓 **Education:** BTech - 1st Year
+
 💼 **Role:** Building Beautiful Web Experiences
 
 </td>
 </tr>
 </table>
 
-<br clear="left"/>
+<br>
 
-</div>
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -55,21 +55,21 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/code.png"/> **Web Development**
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/code.png"/> <b>Web Development</b>
+</p>
 
-<br>
+<p align="center">
+<img src="https://img.icons8.com/fluency/48/000000/design.png"/> <b>UI/UX Design</b>
+</p>
 
-<img src="https://img.icons8.com/fluency/48/000000/design.png"/> **UI/UX Design**
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/open-source.png"/> <b>Open Source</b>
+</p>
 
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/open-source.png"/> **Open Source**
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/brain.png"/> **Problem Solving**
-
-<br>
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/brain.png"/> <b>Problem Solving</b>
+</p>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -78,21 +78,25 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/> **Advanced React Patterns**
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <b>Advanced React Patterns</b>
+</p>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/> <b>TypeScript</b>
+</p>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/speed.png"/> <b>Performance Optimization</b>
+</p>
 
 <br>
-
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/> **TypeScript**
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/speed.png"/> **Performance Optimization**
-
-<br><br>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -102,27 +106,25 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Master React Ecosystem**
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Master React Ecosystem</b>
+</p>
 
-<br>
-  
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Contribute to Major Open Source Projects**
+<p align="center">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> <b>Contribute to Major Open Source Projects</b>
+</p>
 
-<br>
+<p align="center">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <b>Build 10+ Production-Ready Projects</b>
+</p>
 
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> **Build 10+ Production-Ready Projects**
-
-<br>
-
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> **Land Dream Frontend Role**
-
-<br>
+<p align="center">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> <b>Land Dream Frontend Role</b>
+</p>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <div align="center">
 
