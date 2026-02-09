@@ -7,25 +7,16 @@
 ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║     
 ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝
-                                                     
-██████╗  █████╗ ████████╗███████╗██╗               
-██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║               
-██████╔╝███████║   ██║   █████╗  ██║               
-██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║               
-██║     ██║  ██║   ██║   ███████╗███████╗          
-╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝          
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&height=80&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;1st+Year+BTech+Student+%F0%9F%8E%93;Building+Pixel-Perfect+Experiences+%E2%9C%A8;Let's+Code+Something+Epic!+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Animated Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
 </div>
 
 ---
 
-<!-- Animated Profile Counters -->
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=HARSHILL2023&label=Profile%20Views&color=00FF41&style=for-the-badge)
@@ -40,73 +31,84 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                          PLAYER STATS                                ║
+║                     🎯 ABOUT ME - WHO AM I? 🎯                       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-```javascript
-const harshilPatel = {
-    pronouns: "He" | "Him",
-    location: "📍 Ahmedabad, Gujarat, India 🇮🇳",
-    education: "🎓 1st Year BTech Student",
-    role: "💻 Frontend Developer & UI/UX Enthusiast",
-    
-    code: {
-        languages: ["JavaScript", "C", "Python", "HTML5", "CSS3"],
-        frontend: ["React.js", "Tailwind CSS", "Bootstrap", "SASS"],
-        design: ["Figma", "UI/UX Principles", "Responsive Design"],
-        tools: ["Git", "GitHub", "VS Code", "npm", "Vercel"]
-    },
-    
-    currently_mastering: ["Advanced React Hooks ⚡", "TypeScript 🟦"],
-    
-    architecture: {
-        frontend: ["SPA", "SSR", "Responsive Design"],
-        styling: ["CSS-in-JS", "Utility-First CSS", "BEM"],
-        designSystem: ["Component Libraries", "Design Tokens"]
-    },
-    
-    currentFocus: "Crafting Beautiful & Responsive User Interfaces ✨",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+## 👨‍💻 Profile Overview
 
-<div align="center">
+**Name:** Harshil Patel  
+**Pronouns:** He/Him  
+**Location:** 📍 Ahmedabad, Gujarat, India 🇮🇳  
+**Education:** 🎓 1st Year BTech Student  
+**Role:** 💻 Frontend Developer & UI/UX Enthusiast  
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                         SPECIAL ABILITIES                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+---
 
-</div>
+## 🚀 What I Do
 
-```javascript
-function getPassions() {
-    return [
-        "🎨 Crafting Beautiful User Interfaces",
-        "⚡ Optimizing Web Performance",
-        "🧠 Solving Complex Problems Daily",
-        "☀️ Contributing to Open Source",
-        "🔍 Learning Cutting-Edge Technologies"
-    ];
-}
+- 🎨 **Crafting Beautiful User Interfaces** - Creating pixel-perfect, responsive designs
+- ⚡ **Optimizing Web Performance** - Making websites faster and more efficient  
+- 🧠 **Solving Complex Problems** - Tackling challenges with creative solutions
+- 🌟 **Contributing to Open Source** - Giving back to the developer community
+- 🔍 **Learning Cutting-Edge Tech** - Always staying updated with latest trends
 
-function collaborate() {
-    return "💡 Always open to innovative projects and collaborations!";
-}
+---
 
-function contact() {
-    return {
-        email: "harshil.patel.cg@gmail.com",
-        linkedin: "linkedin.com/in/harshil-patel-b00063395",
-        github: "github.com/HARSHILL2023",
-        status: "🚀 Open to opportunities!"
-    };
-}
-```
+## 💡 Currently Mastering
+
+- Advanced React Hooks ⚡
+- TypeScript 🟦
+- Performance Optimization 🚀
+- State Management 🔄
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+JavaScript • TypeScript • HTML5 • CSS3 • Python • C
+
+### Frontend & Styling  
+React.js • Tailwind CSS • Bootstrap • SASS • Responsive Design
+
+### Design Tools
+Figma • UI/UX Principles • Mobile-First Design • Accessibility
+
+### Development Tools
+Git • GitHub • VS Code • npm • Vercel • Netlify
+
+---
+
+## 🎯 My Approach
+
+**Architecture:** SPA • SSR • Component-Based Development  
+**Styling:** CSS-in-JS • Utility-First CSS • BEM  
+**Design System:** Component Libraries • Design Tokens  
+**Focus:** Building accessible, scalable, and maintainable web experiences
+
+---
+
+## 💬 Fun Facts
+
+- 🐛 I debug with console.log() and I'm not ashamed!
+- 🌙 Best code is written after midnight  
+- ☕ Coffee-to-code conversion rate: 100%
+- 🎯 Perfectionist when it comes to pixel alignment
+- 🚀 Believer in "Make it work, make it right, make it fast"
+
+---
+
+## 📫 Get In Touch
+
+**Email:** harshil.patel.cg@gmail.com  
+**LinkedIn:** linkedin.com/in/harshil-patel-b00063395  
+**GitHub:** github.com/HARSHILL2023  
+**Status:** 🚀 Open to opportunities and collaborations!
+
+---
 
 ---
 
@@ -114,21 +116,19 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ⚔️  CODING BATTLEFIELD  ⚔️                        ║
+║                ⚔️  GITHUB BATTLE STATISTICS  ⚔️                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-## 🔥 **COMMIT STATS & ACHIEVEMENTS** 🔥
+## 🔥 **COMMIT ACTIVITY & CONTRIBUTION GRAPH** 🔥
 
-<!-- Custom Commit Animation Display -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHILL2023&custom_title=⚡%20Harshil's%20Battle%20History%20⚡&bg_color=0D1117&color=00FF41&line=FF6B6B&point=FFC107&area_color=00FF41&title_color=fff&area=true&hide_border=true" width="95%">
 
 </div>
 
-<!-- Epic Stats Display -->
 <div align="center">
 
-### 💎 **POWER LEVEL METRICS** 💎
+### 💎 **PERFORMANCE METRICS DASHBOARD** 💎
 
 <table align="center">
 <tr>
@@ -141,7 +141,7 @@ function contact() {
 </td>
 <td align="center" width="50%">
 
-**⚡ TOTAL POWER ⚡**
+**⚡ GITHUB STATISTICS ⚡**
 
 <img src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF&ring_color=FFC107&count_private=true&include_all_commits=true" width="100%"/>
 
@@ -149,12 +149,11 @@ function contact() {
 </tr>
 </table>
 
-<!-- Epic Contribution Stats -->
 <table align="center" width="100%">
 <tr>
 <td align="center">
   
-### 🏆 **BATTLE ACHIEVEMENTS** 🏆
+### 🏆 **CONTRIBUTION ACHIEVEMENTS** 🏆
 
 <img src="https://github-contributor-stats.vercel.app/api?username=HARSHILL2023&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF" width="70%"/>
 
@@ -170,30 +169,27 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                      🎮  INVENTORY - TECH STACK  🎮                  ║
+║                  🎮  TECHNOLOGY ARSENAL & TOOLS  🎮                  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-## 🗡️ **WEAPONS & TOOLS** 🗡️
-
-### **⚔️ Primary Weapons (Languages)**
+## 🗡️ **WEAPONS - PROGRAMMING LANGUAGES** 🗡️
 
 <img src="https://skillicons.dev/icons?i=js,ts,c,python,html,css&theme=dark&perline=6" />
 
-### **🛡️ Defense Systems (Frontend & Styling)**
+## 🛡️ **SHIELDS - FRONTEND & STYLING** 🛡️
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,figma&theme=dark&perline=5" />
 
-### **🎒 Utility Belt (Tools & Platforms)**
+## 🎒 **UTILITIES - TOOLS & PLATFORMS** 🎒
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&theme=dark&perline=6" />
 
 </div>
 
-<!-- Language Stats -->
 <div align="center">
   
-### 📊 **SKILL DISTRIBUTION**
+### 📊 **LANGUAGE USAGE STATISTICS**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHILL2023&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" width="50%"/>
 
@@ -205,7 +201,7 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        🏅  TROPHY COLLECTION  🏅                     ║
+║                    🏅  ACHIEVEMENT COLLECTION  🏅                    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -219,7 +215,7 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                     🌟  LEGENDARY PROJECTS  🌟                       ║
+║                   🌟  FEATURED REPOSITORIES  🌟                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -238,7 +234,7 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                  🐍  CONTRIBUTION SNAKE GAME  🐍                     ║
+║                🐍  CONTRIBUTION VISUALIZATION  🐍                    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -256,7 +252,7 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                      💬  WISE DEVELOPER QUOTE  💬                    ║
+║                 💬  INSPIRATION & MOTIVATION  💬                     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -270,11 +266,11 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    🌐  MULTIPLAYER - CONNECT!  🌐                    ║
+║                  🌐  CONNECTION ENDPOINTS  🌐                        ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-## 🤝 **JOIN MY PARTY!** 🤝
+## 🤝 **LET'S CONNECT & COLLABORATE!** 🤝
 
 <a href="https://www.linkedin.com/in/harshil-patel-b00063395/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -294,27 +290,30 @@ function contact() {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        ⚡ GAME LOOP ⚡                               ║
+║                        ⚡ DAILY ROUTINE ⚡                           ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
+### 🔄 My Developer Life Cycle
 
-// "First, solve the problem. Then, write the code." - John Johnson
-// "Make it work, make it right, make it fast." - Kent Beck
-```
+☕ **Coffee** → 💻 **Code** → 🎨 **Design** → 📚 **Learn** → 🌟 **Contribute** → 😴 **Rest** → 🔁 **Repeat**
+
+---
+
+### 💭 Words I Code By
+
+*"First, solve the problem. Then, write the code."* - John Johnson
+
+*"Make it work, make it right, make it fast."* - Kent Beck  
+
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
+
+
 
 </div>
 
 ---
 
-<!-- Footer Wave -->
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
@@ -322,17 +321,22 @@ while (alive) {
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║         ⭐ Made with ❤️ and lots of ☕ by Harshil Patel ⭐           ║
+║         ⭐ Crafted with ❤️ and ☕ by Harshil Patel ⭐                ║
 ║                                                                      ║
-║     "Crafting digital experiences that matter, one pixel at a time!" ║
+║   "Building digital experiences that matter, one commit at a time.   ║
+║          Let's turn ideas into reality together!"                    ║
+║                                                                      ║
+║               © 2025 Harshil Patel | MIT License                     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
-### 🎮 **LEVEL UP YOUR GITHUB GAME!** 🎮
+### 🎮 **LEVEL UP YOUR GITHUB PROFILE!** 🎮
 
 </div>
