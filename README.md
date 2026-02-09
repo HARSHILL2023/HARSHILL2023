@@ -18,7 +18,7 @@
 
 ## 🎯 ABOUT ME
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 <td width="50%" align="center">
 
@@ -47,7 +47,7 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -55,7 +55,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td><img src="https://img.icons8.com/color/48/000000/code.png" width="48"/></td>
 <td><b>Web Development</b></td>
@@ -81,7 +81,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td><img src="https://img.icons8.com/color/48/000000/react-native.png" width="48"/></td>
 <td><b>Advanced React Patterns</b></td>
@@ -104,7 +104,7 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 <td align="center">
 
@@ -112,7 +112,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/></td>
 <td><b>Master React Ecosystem</b></td>
