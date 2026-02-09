@@ -2,7 +2,7 @@
 
 # 🚀 HARSHIL PATEL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Craftsman+%F0%9F%8E%A8;React+Specialist+%E2%9A%9B%EF%B8%8F;Building+Digital+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Craftsman+%F0%9F%8E%A8;Building+Digital+Magic+%E2%9C%A8" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
@@ -173,15 +173,9 @@
 ## 📊 GITHUB STATISTICS
 
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HARSHILL2023&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B6B&fire=FFC107&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=FF6B6B&sideLabels=FFC107&dates=FFFFFF" />
-</p>
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHILL2023&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=HARSHILL2023&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF" />
-</p>
 
 
 
