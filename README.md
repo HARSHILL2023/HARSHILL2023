@@ -18,11 +18,15 @@
 
 ## 🎯 ABOUT ME
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<div align="center">
 
 <table>
 <tr>
-<td>
+<td align="center">
 
 ### 👨‍💻 WHO AM I?
 
@@ -37,53 +41,85 @@
 </tr>
 </table>
 
+<br clear="left"/>
+
 </div>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🎨 FIELDS OF INTEREST
 
+<br>
+
 <img src="https://img.icons8.com/color/48/000000/code.png"/> **Web Development**
+
+<br>
 
 <img src="https://img.icons8.com/fluency/48/000000/design.png"/> **UI/UX Design**
 
+<br>
+
 <img src="https://img.icons8.com/color/48/000000/open-source.png"/> **Open Source**
+
+<br>
 
 <img src="https://img.icons8.com/color/48/000000/brain.png"/> **Problem Solving**
 
+<br>
+
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📚 CURRENTLY LEARNING
 
+<br>
+
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> **Advanced React Patterns**
+
+<br>
 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/> **TypeScript**
 
+<br>
+
 <img src="https://img.icons8.com/color/48/000000/speed.png"/> **Performance Optimization**
+
+<br><br>
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr><td>
+<table width="100%">
+<tr>
+<td align="center">
 
 ### 🎯 2025 GOALS
 
+<br>
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Master React Ecosystem**
+
+<br>
   
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Contribute to Major Open Source Projects**
 
+<br>
+
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> **Build 10+ Production-Ready Projects**
+
+<br>
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> **Land Dream Frontend Role**
 
-</td></tr>
+<br>
+
+</td>
+</tr>
 </table>
 
 </div>
