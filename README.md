@@ -27,86 +27,480 @@
 
 ---
 
+<!-- Animated Terminal Introduction -->
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                     🎯 ABOUT ME - WHO AM I? 🎯                       ║
+║                  💫 INITIALIZING DEVELOPER PROFILE 💫                ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-## 👨‍💻 Profile Overview
+<div align="center">
+  
+### 🎯 HARSHIL PATEL | FRONTEND ARCHITECT & UI/UX CRAFTSMAN
 
-**Name:** Harshil Patel  
-**Pronouns:** He/Him  
-**Location:** 📍 Ahmedabad, Gujarat, India 🇮🇳  
-**Education:** 🎓 1st Year BTech Student  
-**Role:** 💻 Frontend Developer & UI/UX Enthusiast  
+<table>
+<tr>
+<td align="center" width="33%">
+  
+**🌍 LOCATION**  
+Ahmedabad, Gujarat  
+India 🇮🇳
 
----
+</td>
+<td align="center" width="33%">
 
-## 🚀 What I Do
+**🎓 EDUCATION**  
+BTech - 1st Year  
+Computer Engineering
 
-- 🎨 **Crafting Beautiful User Interfaces** - Creating pixel-perfect, responsive designs
-- ⚡ **Optimizing Web Performance** - Making websites faster and more efficient  
-- 🧠 **Solving Complex Problems** - Tackling challenges with creative solutions
-- 🌟 **Contributing to Open Source** - Giving back to the developer community
-- 🔍 **Learning Cutting-Edge Tech** - Always staying updated with latest trends
+</td>
+<td align="center" width="33%">
 
----
+**💼 STATUS**  
+Open to Opportunities  
+Frontend Developer
 
-## 💡 Currently Mastering
+</td>
+</tr>
+</table>
 
-- Advanced React Hooks ⚡
-- TypeScript 🟦
-- Performance Optimization 🚀
-- State Management 🔄
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-JavaScript • TypeScript • HTML5 • CSS3 • Python • C
-
-### Frontend & Styling  
-React.js • Tailwind CSS • Bootstrap • SASS • Responsive Design
-
-### Design Tools
-Figma • UI/UX Principles • Mobile-First Design • Accessibility
-
-### Development Tools
-Git • GitHub • VS Code • npm • Vercel • Netlify
+</div>
 
 ---
 
-## 🎯 My Approach
+<div align="center">
 
-**Architecture:** SPA • SSR • Component-Based Development  
-**Styling:** CSS-in-JS • Utility-First CSS • BEM  
-**Design System:** Component Libraries • Design Tokens  
-**Focus:** Building accessible, scalable, and maintainable web experiences
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║              🎨 EXPERTISE MATRIX - SKILL VISUALIZATION 🎨            ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+### ⚡ CORE COMPETENCIES ⚡
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+```
+┌─────────────────────────────────────┐
+│   FRONTEND DEVELOPMENT MASTERY      │
+├─────────────────────────────────────┤
+│ React.js         ████████████ 95%   │
+│ JavaScript (ES6+)█████████████ 98%  │
+│ TypeScript       ██████████ 85%     │
+│ HTML5/CSS3       █████████████ 99%  │
+│ Responsive Design████████████ 96%   │
+└─────────────────────────────────────┘
+```
+
+</td>
+<td align="center" width="50%">
+
+```
+┌─────────────────────────────────────┐
+│      STYLING & DESIGN SYSTEMS       │
+├─────────────────────────────────────┤
+│ Tailwind CSS     █████████████ 98%  │
+│ SASS/SCSS        ███████████ 92%    │
+│ CSS-in-JS        ██████████ 88%     │
+│ Bootstrap        ████████████ 94%   │
+│ Figma to Code    ███████████ 90%    │
+└─────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+```
+┌─────────────────────────────────────┐
+│    ARCHITECTURE & BEST PRACTICES    │
+├─────────────────────────────────────┤
+│ Component Design ████████████ 93%   │
+│ State Management ███████████ 90%    │
+│ Performance Opt. ██████████ 87%     │
+│ Clean Code       █████████████ 95%  │
+│ Git Workflow     ████████████ 96%   │
+└─────────────────────────────────────┘
+```
+
+</td>
+<td align="center" width="50%">
+
+```
+┌─────────────────────────────────────┐
+│       UI/UX & ACCESSIBILITY         │
+├─────────────────────────────────────┤
+│ UI/UX Principles ████████████ 94%   │
+│ User-Centric     █████████████ 97%  │
+│ Mobile-First     ████████████ 96%   │
+│ WCAG Standards   ███████████ 89%    │
+│ Pixel-Perfect    ██████████████ 99% │
+└─────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 💬 Fun Facts
+<div align="center">
 
-- 🐛 I debug with console.log() and I'm not ashamed!
-- 🌙 Best code is written after midnight  
-- ☕ Coffee-to-code conversion rate: 100%
-- 🎯 Perfectionist when it comes to pixel alignment
-- 🚀 Believer in "Make it work, make it right, make it fast"
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                  🚀 ADVANCED CAPABILITIES & SPECIALTIES 🚀           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 TECHNICAL SPECIALIZATIONS
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ → Modern JavaScript (ES6+)      ┃
+┃   • Async/Await Patterns        ┃
+┃   • Promises & Event Loop       ┃
+┃   • Destructuring & Spread      ┃
+┃                                 ┃
+┃ → React Ecosystem               ┃
+┃   • Hooks (useState, useEffect) ┃
+┃   • Context API & Redux         ┃
+┃   • Custom Hooks Development    ┃
+┃   • Component Optimization      ┃
+┃                                 ┃
+┃ → Advanced CSS Techniques       ┃
+┃   • Flexbox & Grid Mastery      ┃
+┃   • CSS Animations & Keyframes  ┃
+┃   • Responsive Breakpoints      ┃
+┃   • CSS Variables & Theming     ┃
+┃                                 ┃
+┃ → Performance Engineering       ┃
+┃   • Code Splitting              ┃
+┃   • Lazy Loading                ┃
+┃   • Bundle Size Optimization    ┃
+┃   • Lighthouse Score > 95       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ DEVELOPMENT WORKFLOW
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ → Version Control & Collaboration┃
+┃   • Git Advanced (Rebase, Merge)┃
+┃   • GitHub Actions & CI/CD      ┃
+┃   • Branch Strategies           ┃
+┃   • Code Review Best Practices  ┃
+┃                                 ┃
+┃ → Design to Development         ┃
+┃   • Figma → React Components    ┃
+┃   • Design System Implementation┃
+┃   • Atomic Design Methodology   ┃
+┃   • Style Guide Creation        ┃
+┃                                 ┃
+┃ → Testing & Quality Assurance   ┃
+┃   • Cross-Browser Testing       ┃
+┃   • Responsive Testing          ┃
+┃   • Accessibility Audits        ┃
+┃   • Performance Profiling       ┃
+┃                                 ┃
+┃ → Deployment & DevOps           ┃
+┃   • Vercel & Netlify Deployment ┃
+┃   • Environment Configuration   ┃
+┃   • SEO Optimization            ┃
+┃   • Analytics Integration       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Get In Touch
+<div align="center">
 
-**Email:** harshil.patel.cg@gmail.com  
-**LinkedIn:** linkedin.com/in/harshil-patel-b00063395  
-**GitHub:** github.com/HARSHILL2023  
-**Status:** 🚀 Open to opportunities and collaborations!
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     🎓 CONTINUOUS LEARNING JOURNEY 🎓                ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### 📚 CURRENTLY MASTERING
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**⚛️ ADVANCED REACT**
+```
+▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱ 75%
+```
+• React 18 Features  
+• Server Components  
+• Concurrent Mode  
+• Advanced Patterns
+
+</td>
+<td align="center" width="25%">
+
+**🟦 TYPESCRIPT PRO**
+```
+▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱ 70%
+```
+• Generic Types  
+• Advanced Interfaces  
+• Type Guards  
+• Utility Types
+
+</td>
+<td align="center" width="25%">
+
+**⚡ PERFORMANCE**
+```
+▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱ 80%
+```
+• Web Vitals  
+• Code Optimization  
+• Memory Management  
+• Rendering Strategy
+
+</td>
+<td align="center" width="25%">
+
+**🎨 3D & ANIMATION**
+```
+▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱ 55%
+```
+• Three.js  
+• GSAP Animations  
+• Framer Motion  
+• WebGL Basics
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                  💼 PROFESSIONAL HIGHLIGHTS & IMPACT 💼              ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨
+### **PIXEL PERFECT**
+Delivered 100% design-accurate  
+implementations with  
+sub-pixel precision
+
+</td>
+<td align="center" width="25%">
+
+### ⚡
+### **PERFORMANCE**
+Achieved 95+ Lighthouse  
+scores on production  
+applications
+
+</td>
+<td align="center" width="25%">
+
+### 📱
+### **RESPONSIVE**
+Built mobile-first  
+experiences across  
+all device sizes
+
+</td>
+<td align="center" width="25%">
+
+### ♿
+### **ACCESSIBLE**
+WCAG 2.1 AA compliant  
+interfaces for  
+inclusive design
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🎯 WHAT SETS ME APART FROM OTHERS 🎯             ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🔥 UNIQUE STRENGTHS
+
+```diff
++ Design-to-Code Translation Expert
+  Converting Figma designs to React
+  components with 1:1 accuracy
+
++ Performance Optimization Specialist  
+  Reducing bundle sizes by 40-60%
+  through strategic code splitting
+
++ Accessibility Champion
+  Building inclusive web experiences
+  that work for everyone
+
++ Clean Code Advocate
+  Writing maintainable, scalable code
+  that teams love to work with
+```
+
+</td>
+<td width="50%" align="center">
+
+### 💡 PROBLEM SOLVING MINDSET
+
+```diff
+! Debug Complex Issues
+  Finding root causes rather than
+  applying band-aid fixes
+
+! Optimize User Experience
+  Data-driven decisions for better
+  engagement and conversions
+
+! Architect Scalable Solutions
+  Building systems that grow with
+  business needs
+
+! Continuous Improvement
+  Always learning, always evolving
+  with the tech ecosystem
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                  🌟 DEVELOPER PHILOSOPHY & APPROACH 🌟               ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎯 **USER-FIRST**
+
+Every line of code  
+serves the end user
+
+Beautiful UI +  
+Seamless UX
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ **PERFORMANCE**
+
+Fast is not fast enough  
+Optimize everything
+
+60 FPS animations  
+< 3s load times
+
+</td>
+<td align="center" width="33%">
+
+### 🔧 **CRAFTSMANSHIP**
+
+Code is poetry  
+Details matter
+
+Clean, readable,  
+maintainable code
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        📬 LET'S CONNECT & COLLABORATE 📬            ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### 🤝 OPEN FOR OPPORTUNITIES
+
+**📧 Email:** harshil.patel.cg@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/harshil-patel-b00063395](https://linkedin.com/in/harshil-patel-b00063395)  
+**🐙 GitHub:** [github.com/HARSHILL2023](https://github.com/HARSHILL2023)
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🚀 AVAILABLE FOR:                                          │
+│  ✓ Frontend Development Roles                              │
+│  ✓ UI/UX Implementation Projects                           │
+│  ✓ Open Source Collaborations                              │
+│  ✓ Freelance & Contract Work                               │
+│  ✓ Technical Mentorship                                     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
