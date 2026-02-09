@@ -20,31 +20,73 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<table>
+<tr>
+<td>
+
+### 👨‍💻 WHO AM I?
+
+**`Harshil Patel`** 
+> Frontend Developer & UI/UX Enthusiast
+
+📍 **Location:** Ahmedabad, Gujarat, India  
+🎓 **Education:** BTech - 1st Year  
+💼 **Role:** Building Beautiful Web Experiences
+
+</td>
+</tr>
+</table>
+
 </div>
 
-```yaml
-name: Harshil Patel
-located_in: Ahmedabad, Gujarat, India
-current_education: BTech - 1st Year
-job: Frontend Developer & UI/UX Enthusiast
+<div align="center">
 
-fields_of_interests:
-  - Web Development
-  - UI/UX Design
-  - Open Source
-  - Problem Solving
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 FIELDS OF INTEREST
+
+<img src="https://img.icons8.com/color/48/000000/code.png"/> **Web Development**
+
+<img src="https://img.icons8.com/fluency/48/000000/design.png"/> **UI/UX Design**
+
+<img src="https://img.icons8.com/color/48/000000/open-source.png"/> **Open Source**
+
+<img src="https://img.icons8.com/color/48/000000/brain.png"/> **Problem Solving**
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 CURRENTLY LEARNING
+
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> **Advanced React Patterns**
+
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/> **TypeScript**
+
+<img src="https://img.icons8.com/color/48/000000/speed.png"/> **Performance Optimization**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr><td>
+
+### 🎯 2025 GOALS
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Master React Ecosystem**
   
-currently_learning: 
-  - Advanced React Patterns
-  - TypeScript
-  - Performance Optimization
-  
-2025_goals:
-  - Master React Ecosystem
-  - Contribute to Major Open Source Projects
-  - Build 10+ Production-Ready Projects
-  - Land Dream Frontend Role
-```
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **Contribute to Major Open Source Projects**
+
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> **Build 10+ Production-Ready Projects**
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> **Land Dream Frontend Role**
+
+</td></tr>
+</table>
+
+</div>
 
 <div align="center">
 
