@@ -240,12 +240,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
