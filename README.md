@@ -172,9 +172,16 @@
 
 ## 📊 GITHUB STATISTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HARSHILL2023&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B6B&fire=FFC107&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=FF6B6B&sideLabels=FFC107&dates=FFFFFF" />
+</p>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHILL2023&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=HARSHILL2023&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF" />
+</p>
 
 
 
