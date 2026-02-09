@@ -6,9 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HARSHILL2023&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/HARSHILL2023?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&logo=github)](https://github.com/HARSHILL2023)
-[![GitHub Stars](https://img.shields.io/github/stars/HARSHILL2023?label=STARS&style=for-the-badge&color=FFC107&logo=github)](https://github.com/HARSHILL2023)
+
 
 </div>
 
@@ -188,38 +186,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHILL2023&custom_title=Harshil's%20Contribution%20Graph&bg_color=0D1117&color=00FF41&line=FF6B6B&point=FFC107&area_color=00FF41&title_color=fff&area=true&hide_border=true" width="100%">
 
-### 🏆 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=HARSHILL2023&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARSHILL2023/HARSHILL2023/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARSHILL2023/HARSHILL2023/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HARSHILL2023/HARSHILL2023/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🌟 FEATURED PROJECTS
-
-<a href="https://github.com/HARSHILL2023/CGxSU_Semester_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHILL2023&repo=CGxSU_Semester_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/HARSHILL2023/full_stack_development_2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HARSHILL2023&repo=full_stack_development_2025&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B6B&text_color=FFFFFF" />
-</a>
-
----
-
-## 💬 RANDOM DEV QUOTE
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
-
----
 
 ## 🤝 CONNECT WITH ME
 
