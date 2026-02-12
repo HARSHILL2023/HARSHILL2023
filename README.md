@@ -116,8 +116,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HARSHILL2023&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHILL2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHILL2023&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&radius=10" />
+
 
 ### 🔥 CONTRIBUTION STREAK
 
