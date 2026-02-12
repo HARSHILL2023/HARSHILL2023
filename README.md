@@ -113,9 +113,78 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HARSHILL2023&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" />
-## 📊 FULL SYSTEM ANALYSIS
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ SYSTEM METRICS
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://img.shields.io/badge/Total_Contributions-307-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
+<br><sub>Aug 8, 2025 - Present</sub>
+</td>
+<td align="center" width="300">
+<img src="https://img.shields.io/badge/Current_Streak-12-00FF41?style=for-the-badge&logo=fire&logoColor=00FF41&labelColor=000000" />
+<br><sub>Feb 1 - Feb 12</sub>
+</td>
+<td align="center" width="300">
+<img src="https://img.shields.io/badge/Longest_Streak-12-00FF41?style=for-the-badge&logo=streak&logoColor=00FF41&labelColor=000000" />
+<br><sub>Feb 1 - Feb 12</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+</div>
+
+---
+
+<div align="center">
+
+### 💀 CONTRIBUTION GRAPH
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHILL2023&theme=high-contrast&bg_color=000000&color=00FF41&line=00FF41&point=39FF14&area=true&area_color=00FF41&title_color=00FF41&custom_title=<<NEURAL%20NETWORK%20ACTIVE>>&hide_border=true&radius=20" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 CONTRIBUTION SNAKE
+
+![Snake animation](https://raw.githubusercontent.com/HARSHILL2023/HARSHILL2023/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 FULL SYSTEM ANALYSIS
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARSHILL2023&theme=nord_dark)
 
@@ -137,6 +206,36 @@
 </div>
 
 ---
+
+<div align="center">
+
+### 💚 COMMIT HEATMAP
+
+![](https://ghchart.rshah.org/00FF41/HARSHILL2023)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 ACHIEVEMENT UNLOCKED
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HARSHILL2023&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/HARSHILL2023)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+</div>
 
 ### 🔥 CONTRIBUTION STREAK
 
