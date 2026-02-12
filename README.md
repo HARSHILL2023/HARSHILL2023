@@ -93,29 +93,7 @@
 
 <div align="center">
 
-### 📊 FULL SYSTEM ANALYSIS
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARSHILL2023&theme=nord_dark)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HARSHILL2023&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HARSHILL2023&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HARSHILL2023&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HARSHILL2023&theme=nord_dark&utcOffset=5.5)
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
-
-</div>
-
----
-
+#
 <div align="center">
 
 ### 💚 COMMIT HEATMAP
