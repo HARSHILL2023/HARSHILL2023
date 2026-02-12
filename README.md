@@ -12,17 +12,48 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> WHO AM I?
 
-</div>
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="60px"/>
+<br><sub><b>Name</b></sub>
+<br><sub>Harshil Patel</sub>
+</td>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60px"/>
+<br><sub><b>Role</b></sub>
+<br><sub>Frontend Developer</sub>
+</td>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="60px"/>
+<br><sub><b>Location</b></sub>
+<br><sub>Ahmedabad, India</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60px"/>
+<br><sub><b>Education</b></sub>
+<br><sub>BTech - 1st Year</sub>
+</td>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="60px"/>
+<br><sub><b>Mission</b></sub>
+<br><sub>Beautiful Web Experiences</sub>
+</td>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60px"/>
+<br><sub><b>Currently Learning</b></sub>
+<br><sub>Advanced React & Design</sub>
+</td>
+</tr>
+</table>
 
-```yaml
-name: Harshil Patel
-role: Frontend Developer & UI/UX Enthusiast
-location: Ahmedabad, Gujarat, India
-education: BTech - 1st Year
-mission: Building Beautiful Web Experiences
-currently_learning: Advanced React Patterns & Modern Web Design
-available_for: Freelance Projects & Collaborations
-```
+<br>
+
+<img src="https://img.shields.io/badge/💼_Available_For-Freelance_Projects_&_Collaborations-58A6FF?style=for-the-badge&labelColor=0D1117" />
+
+</div>
 
 <div align="center">
 
@@ -90,7 +121,7 @@ available_for: Freelance Projects & Collaborations
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> CONTRIBUTION SNAKE
 
-![Snake animation](https://raw.githubusercontent.com/HARSHILL2023/HARSHILL2023/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
