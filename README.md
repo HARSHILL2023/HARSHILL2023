@@ -2,9 +2,7 @@
 
 # 🚀 HARSHIL PATEL
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Craftsman+%F0%9F%8E%A8;Building+Digital+Magic+%E2%9C%A8" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 
 
