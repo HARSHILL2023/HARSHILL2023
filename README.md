@@ -12,7 +12,6 @@
 
 <div align="center">
 
-## 🎯 ABOUT ME
 
 <table width="100%" border="0">
 <tr>
@@ -47,93 +46,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🎨 FIELDS OF INTEREST
 
-<br>
-
-<table align="center" border="0">
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/code.png" width="48"/></td>
-<td><b>Web Development</b></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/fluency/48/000000/design.png" width="48"/></td>
-<td><b>UI/UX Design</b></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/open-source.png" width="48"/></td>
-<td><b>Open Source</b></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/brain.png" width="48"/></td>
-<td><b>Problem Solving</b></td>
-</tr>
-</table>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 📚 CURRENTLY LEARNING
-
-<br>
-
-<table align="center" border="0">
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/react-native.png" width="48"/></td>
-<td><b>Advanced React Patterns</b></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/typescript.png" width="48"/></td>
-<td><b>TypeScript</b></td>
-</tr>
-<tr>
-<td><img src="https://img.icons8.com/color/48/000000/speed.png" width="48"/></td>
-<td><b>Performance Optimization</b></td>
-</tr>
-</table>
-
-<br>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%" border="0">
-<tr>
-<td align="center">
-
-### 🎯 2025 GOALS
-
-<br>
-
-<table align="center" border="0">
-<tr>
-<td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/></td>
-<td><b>Master React Ecosystem</b></td>
-</tr>
-<tr>
-<td><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/></td>
-<td><b>Contribute to Major Open Source Projects</b></td>
-</tr>
-<tr>
-<td><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"/></td>
-<td><b>Build 10+ Production-Ready Projects</b></td>
-</tr>
-<tr>
-<td><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"/></td>
-<td><b>Land Dream Frontend Role</b></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
----
 
 ## 💻 TECH STACK & TOOLS
 
