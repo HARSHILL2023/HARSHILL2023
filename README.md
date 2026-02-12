@@ -50,13 +50,15 @@
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHILL2023&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8)
+
 ### 🔥 CONTRIBUTION GRAPH
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HARSHILL2023&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HARSHILL2023&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)
 
-![](https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHILL2023&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHILL2023&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF)
 
 </div>
 
