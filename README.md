@@ -68,33 +68,13 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ## Tech Stack
 
-**Frontend**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+| Frontend | Backend | Database | Languages | Tooling |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel&theme=dark&perline=5" /> |
 
-<br/><br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<br/><br/>
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
-
-<br/><br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
-
-<br/><br/>
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel&theme=dark" />
+</div>
 
 <br/>
 
