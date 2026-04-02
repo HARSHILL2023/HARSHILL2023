@@ -37,7 +37,7 @@
 
 ---
 
-## `// who`
+## About
 
 I'm **Harshil Patel** — a first-year B.Tech student building full-stack products end-to-end.
 React on the frontend, Node.js + MongoDB + Redis on the backend, shipped on Vercel.
@@ -50,7 +50,7 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ---
 
-## `// now`
+## What I'm Working On
 
 ```
 → Building     Full-stack projects: React + Node.js + MongoDB, deployed on Vercel
@@ -63,7 +63,7 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ---
 
-## `// stack`
+## Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ---
 
-## `// stats`
+## GitHub Stats
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ---
 
-## `// what I want next`
+## What I Want Next
 
 A team that ships real products and moves fast.
 An environment where I learn system design by doing — not just studying.
@@ -103,7 +103,7 @@ Internship, part-time build, open-source contribution — open to all of it.
 
 ---
 
-## `// contact`
+## Contact
 
 **Email →** [harshil.patel.cg@gmail.com](mailto:harshil.patel.cg@gmail.com)
 &nbsp;&nbsp;**LinkedIn →** [harshil-patel](https://www.linkedin.com/in/harshil-patel-b00063395/)
