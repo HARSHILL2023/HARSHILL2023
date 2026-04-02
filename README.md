@@ -35,15 +35,16 @@
 
 <br/>
 
+---
+
 ## `// who`
 
-Full-stack developer shipping end-to-end products in **Year 1 of B.Tech**.
-I work across the full pipeline — React UIs, Node.js APIs, MongoDB, Redis caching, Vercel deploys.
-I don't wait for the right semester to start building.
+I'm **Harshil Patel** — a first-year B.Tech student building full-stack products end-to-end.
+React on the frontend, Node.js + MongoDB + Redis on the backend, shipped on Vercel.
 
-I document every real decision publicly on YouTube. Not tutorials. Actual tradeoffs.
+Not waiting for the right semester. Building now, learning by doing, documenting everything on YouTube.
 
-> **Open to:** internships · collabs · open-source
+**Based in India &nbsp;·&nbsp; Open to internships, collabs & open-source**
 
 <br/>
 
@@ -69,19 +70,6 @@ I document every real decision publicly on YouTube. Not tutorials. Actual tradeo
 <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,mongodb,redis,express,c,cpp,git,github,figma,postman,vercel&theme=dark&perline=8" />
 
 </div>
-
-<br/>
-
----
-
-## `// why me`
-
-| | |
-|:--|:--|
-| **Ships full-stack, solo** | Not just UI. Full pipeline — auth, REST APIs, caching layer, deployment. Year 1. |
-| **Builds in public** | YouTube: real decisions and tradeoffs, not highlight reels. Proof of consistency. |
-| **Product-first thinking** | Asks *why* before *how*. Features exist to solve problems, not to pad a portfolio. |
-| **Moves without permission** | No waiting for semester 4. DSA, fullstack, content — all in parallel, right now. |
 
 <br/>
 
