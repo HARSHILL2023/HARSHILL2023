@@ -84,12 +84,6 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0015&title_color=b388ff&icon_color=b388ff&text_color=e0d7ff&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHILL2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0015&title_color=b388ff&text_color=e0d7ff&langs_count=5" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=HARSHILL2023&theme=tokyonight&hide_border=true&background=0d0015&ring=b388ff&fire=b388ff&currStreakLabel=b388ff&sideLabels=e0d7ff&dates=9e8fc0" width="52%" />
 
 </div>
