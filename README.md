@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--        REPLACE every HARSHILL2023 below           -->
+<!--        GitHub: HARSHILL2023                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -29,13 +29,9 @@
 
 ---
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
-</div>
-
-<br/>
-
----
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ## About
 
@@ -48,16 +44,23 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 <br/>
 
----
-
 ## What I'm Working On
 
 ```
-→ Building     Full-stack projects: React + Node.js + MongoDB, deployed on Vercel
-→ Learning     System design fundamentals — through building, not just reading
-→ Grinding     LeetCode — arrays, trees, graphs, dynamic programming
-→ Shipping     YouTube — real dev decisions documented publicly
+→ Building   React + Node.js + MongoDB on Vercel
+→ Learning   System design — by building, not reading
+→ Grinding   LeetCode — DSA fundamentals daily
+→ Shipping   YouTube — real dev decisions, publicly
 ```
+
+</td>
+<td valign="top" align="center" width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -65,11 +68,33 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ## Tech Stack
 
-<div align="center">
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,mongodb,redis,express,c,cpp,git,github,figma,postman,vercel&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
 
-</div>
+<br/><br/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/><br/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
+
+<br/><br/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
+
+<br/><br/>
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel&theme=dark" />
 
 <br/>
 
