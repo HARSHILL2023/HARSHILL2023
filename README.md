@@ -14,6 +14,12 @@
 
 ![open](https://img.shields.io/badge/%F0%9F%9F%A2%20open%20to%20internships%20%26%20collabs-2d1b69?style=flat-square)
 
+<h2 align="center">👀 Visitors Count</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HARSHILL2023&label=Profile%20views&color=0e75b6&style=flat" alt="HARSHILL2023" />
+</p>
+
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=flat-square&logo=vercel&logoColor=b388ff)](https://portfolio-eta-sable-bdxxw28c7e.vercel.app/)&nbsp;
