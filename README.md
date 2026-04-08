@@ -22,12 +22,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=flat-square&logo=vercel&logoColor=b388ff)](https://portfolio-eta-sable-bdxxw28c7e.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-b00063395/)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshil.patel.cg@gmail.com)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/trFRJmWPQm/)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@harshilpatel-20)&nbsp;
-[![Twitter](https://img.shields.io/badge/X-1a0533?style=flat-square&logo=twitter&logoColor=b388ff)](https://x.com/HarshilPat74943)
+
 
 </div>
 
@@ -70,6 +65,13 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=flat-square&logo=vercel&logoColor=b388ff)](https://portfolio-eta-sable-bdxxw28c7e.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-b00063395/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshil.patel.cg@gmail.com)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/trFRJmWPQm/)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@harshilpatel-20)&nbsp;
+[![Twitter](https://img.shields.io/badge/X-1a0533?style=flat-square&logo=twitter&logoColor=b388ff)](https://x.com/HarshilPat74943)
+
 ---
 
 ## Tech Stack
@@ -107,12 +109,6 @@ Internship, part-time build, open-source contribution — open to all of it.
 <br/>
 
 ---
-
-## Contact
-
-**Email →** [harshil.patel.cg@gmail.com](mailto:harshil.patel.cg@gmail.com)
-&nbsp;&nbsp;**LinkedIn →** [harshil-patel](https://www.linkedin.com/in/harshil-patel-b00063395/)
-&nbsp;&nbsp;**Portfolio →** [portfolio](https://portfolio-eta-sable-bdxxw28c7e.vercel.app/)
 
 <br/>
 
