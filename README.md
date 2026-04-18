@@ -92,7 +92,7 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HARSHILL2023&theme=tokyonight&hide_border=true&background=0d0015&ring=b388ff&fire=b388ff&currStreakLabel=b388ff&sideLabels=e0d7ff&dates=9e8fc0" width="52%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=tokyonight&hide_border=true" width="52%" />
 
 </div>
 
