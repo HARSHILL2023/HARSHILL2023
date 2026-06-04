@@ -88,15 +88,7 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HARSHILL2023&show_icons=true&theme=tokyonight&hide_border=true" width="52%" />
-
-</div>
-
-<br/>
 
 ---
 
