@@ -73,6 +73,26 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 [![Twitter](https://img.shields.io/badge/X-1a0533?style=flat-square&logo=twitter&logoColor=b388ff)](https://x.com/HarshilPat74943)
 
 ---
+---
+
+## LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/trFRJmWPQm/">
+  <img src="https://leetcard.jacoblin.cool/trFRJmWPQm?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/trFRJmWPQm/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-2d1b69?style=flat-square&logo=leetcode&logoColor=b388ff" />
+</a>
+
+</div>
+
+---
+
 
 ## Tech Stack
 
