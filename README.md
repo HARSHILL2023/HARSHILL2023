@@ -1,5 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--        GitHub: HARSHILL2023                               -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -22,8 +24,6 @@
 
 <br/><br/>
 
-
-
 </div>
 
 <br/>
@@ -41,13 +41,13 @@ React on the frontend, Node.js + MongoDB + Redis on the backend, shipped on Verc
 
 Not waiting for the right semester. Building now, learning by doing, documenting everything on YouTube.
 
-**Based in India &nbsp;·&nbsp; Open to internships, collabs & open-source**
+**Based in India  ·  Open to internships, collabs & open-source**
 
 <br/>
 
 ## What I'm Working On
 
-```
+```text
 → Building   React + Node.js + MongoDB on Vercel
 → Learning   System design — by building, not reading
 → Grinding   LeetCode — DSA fundamentals daily
@@ -65,27 +65,28 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=flat-square&logo=vercel&logoColor=b388ff)](https://portfolio-eta-sable-bdxxw28c7e.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-patel-b00063395/)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshil.patel.cg@gmail.com)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/trFRJmWPQm/)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@harshilpatel-20)&nbsp;
-[![Twitter](https://img.shields.io/badge/X-1a0533?style=flat-square&logo=twitter&logoColor=b388ff)](https://x.com/HarshilPat74943)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0533?style=flat-square\&logo=vercel\&logoColor=b388ff)](https://portfolio-eta-sable-bdxxw28c7e.vercel.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshil-patel-b00063395/) 
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:harshil.patel.cg@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/harshilPatel2301/) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://youtube.com/@harshilpatel-20) 
+[![Twitter](https://img.shields.io/badge/X-1a0533?style=flat-square\&logo=twitter\&logoColor=b388ff)](https://x.com/HarshilPat74943)
 
 ---
+
 ---
 
 ## LeetCode
 
 <div align="center">
 
-<a href="https://leetcode.com/u/trFRJmWPQm/">
-  <img src="https://leetcard.jacoblin.cool/trFRJmWPQm?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" />
+<a href="https://leetcode.com/u/harshilPatel2301/">
+  <img src="https://leetcard.jacoblin.cool/harshilPatel2301?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="500" />
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/trFRJmWPQm/">
+<a href="https://leetcode.com/u/harshilPatel2301/">
   <img src="https://img.shields.io/badge/LeetCode-View%20Profile-2d1b69?style=flat-square&logo=leetcode&logoColor=b388ff" />
 </a>
 
@@ -93,13 +94,12 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 
 ---
 
-
 ## Tech Stack
 
 <div align="center">
 
-| Frontend | Backend | Database | Languages | Tooling |
-|:---:|:---:|:---:|:---:|:---:|
+|                                       Frontend                                      |                                      Backend                                     |                                     Database                                    |                                Languages                                |                                              Tooling                                              |
+| :---------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel&theme=dark&perline=5" /> |
 
 </div>
@@ -107,8 +107,6 @@ Not waiting for the right semester. Building now, learning by doing, documenting
 <br/>
 
 ---
-
-
 
 ---
 
